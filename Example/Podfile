@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CTTools_Example' do
+  pod 'CTTools', :path => '../'
+
+  target 'CTTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
