@@ -1,0 +1,23 @@
+PODS:
+  - CTTools (0.1.0):
+    - RxSwift
+  - RxSwift (6.5.0)
+
+DEPENDENCIES:
+  - CTTools (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxSwift
+
+EXTERNAL SOURCES:
+  CTTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTTools: 05064e7a529a77759e3a8a5586343a14d48c37cf
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+
+PODFILE CHECKSUM: beae1d2f9c9fc8eb63b0820ae2b2f692931afeba
+
+COCOAPODS: 1.5.3

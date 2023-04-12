@@ -1,0 +1,6 @@
+framework module CTTools {
+  umbrella header "CTTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "CTTools",
+  "version": "0.1.0",
+  "summary": "A short description of CTTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Tao/CTTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tao": "525401043@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Tao/CTTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CTTools/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+
+    ]
+  }
+}
